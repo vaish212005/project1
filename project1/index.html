@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Trekking Blog</title>
+</head>
+<body>
+    <h1 align="center">My Trekking Blog</h1>
+
+    <!-- Top Section -->
+    <table border="1" width="100%">
+        <tr>
+            <!-- Dropdown Box -->
+            <td width="50%" valign="top">
+                <h2>Explore Topics</h2>
+                <select onchange="navigateToPage(this.value)">
+                    <option value="" disabled selected>Select a topic</option>
+                    <option value="himalayas.html">Himalayas</option>
+                    <option value="river.html">Flowing River</option>
+                    <option value="sunset.html">Sunset View</option>
+                    <option value="forest.html">Dense Forest</option>
+                </select>
+                <p>
+                    This section lets you explore some of the most stunning moments from my trekking journey.
+                    Click on a topic above to read more about it.
+                </p>
+                <a href="index.html">Read more</a>
+            </td>
+
+            <!-- Image Box -->
+            <td width="50%">
+                <img src="img1.jpg" alt="Trekking Image" width="100%" height="300">
+            </td>
+        </tr>
+    </table>
+
+    <!-- Summary Box -->
+    <table border="1" width="100%" height="300">
+        <tr>
+            <td valign="top">
+                <h2>Blog Summary</h2>
+                <p>
+                    My trekking journey was an unforgettable experience filled with adventure, breathtaking views, 
+                    and peaceful moments. From the towering Himalayan peaks to serene flowing rivers, every aspect 
+                    of the trip was mesmerizing. This blog captures the highlights and unforgettable memories from 
+                    the trek, offering a glimpse into the raw beauty of nature and the joy of exploration.
+                </p>
+            </td>
+        </tr>
+    </table>
+
+    <script>
+        function navigateToPage(page) {
+            if (page) {
+                window.location.href = page;
+            }
+        }
+    </script>
+</body>
+</html>
