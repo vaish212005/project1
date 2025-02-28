@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <h1>Vaishnavi Khandelwal</h1>
+    <p>Email: vaishu212005@gmail.com | Phone: +91-82XXXXX820 | GitHub: URL | LinkedIn: abcd</p>
+
+    <h2>EDUCATION</h2>
+    <p>
+        <strong>Pimpri Chinchawad University, Pune, India</strong><br>
+        B.Tech in Computer Science and Engineering<br>
+        GPA: 9.52/10.0<br>
+        Expected graduation: May 2028
+    </p>
+    <p>
+        <strong>Macro Vision Academy,Burhanpur</strong><br>
+        Intermediate<br>
+        Percentage:84<br>
+        June 2024
+    </p>
+    <p>
+        <strong>Macro Vision Academy,Burhanpur</strong><br>
+        SSC<br>
+        Percentage:96<br>
+        June 2022
+    </p>
+
+    <h2>TECHNICAL SKILLS</h2>
+    <p>
+        <strong>Programming Languages:</strong> Java, Python, C#, etc.<br>
+        <strong>Tools:</strong> Git and working with CI/CD pipelines, scikit-learn, TensorFlow, JupyterHub, etc.<br>
+        <strong>Front-End:</strong> HTML, CSS, JavaScript, React.js, Angular<br>
+        
+    </p>
+
+    <h2>INTERNSHIPS</h2>
+    <p>
+        <nill>
+        ./
+    </p>
+
+    <h2>PROJECTS</h2>
+    <p>
+        <strong>Working of development of charging stations for ev vehicles for nightime use</strong><br>
+        
+    </p>
+
+    <h2>CERTIFICATES</h2>
+    <p>
+        <strong>Certificate on Cloud Computing – Coursera</strong><br>
+        <em>June 2024</em>
+    </p>
+  
+
+    
+    <h2>CODING PROFILES</h2>
+    <p>
+        <strong>HackerRank:</strong> URL<br>
+        <strong>LeetCode:</strong> URL<br>
+        <strong>CodeChef:</strong> URL
+    </p>
+
+    <h2>LEADERSHIP</h2>
+    <p>
+       Vaishnavi Khandelwal, Member, XYZ club, 
+    </p>
+
+    <h2>HONOURS AND ACHIEVEMENTS</h2>
+    <p>
+        Bronze medalist at National level junior karate championship.
+    </p>
+</body>
+</html>
